@@ -32,3 +32,28 @@ li{
   text-decoration-color: #7dc410;
   font-family:fantacy;
 }
+.imporntant{
+    background-color:red;
+}
+.unimporntant{
+    background-color:blue;
+}
+.cat-climate{
+   background-color:yellow;
+}
+.domestic animals{
+    background-color: transparent;
+    text-align: center;
+}
+.wild animals{
+background-color: violet;
+}
+image{
+    float:left;
+    image-resolution:50px;
+     align centre;
+
+}
+
+
+}
