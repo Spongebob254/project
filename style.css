@@ -24,3 +24,13 @@ body{
 background color: black;
 >>>>>>> master
 }
+. author{
+    color:red;
+font -size 12px;
+
+}
+.intro{
+    font-size: 15px;
+    color: darkcyan;
+
+}
