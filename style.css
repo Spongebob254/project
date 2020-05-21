@@ -4,26 +4,31 @@ h1{
     font-family: sans-serif;
 }
 p{
-background-color: blue;
+background-color: white;
 font-size: large;
 text-align: center;}
 body{
-background color: black;}
+background-color:  whitesmoke;
+}
 
-. author{
-    color:yellowgreen;
+.author{
+    color:midnightblue;
 font-size: medium 12px;}
+#line1{
+ color:red;
+}
+
 
 .intro{
     font-size:large 15px;
-    color: darkcyan;
+    color: rgb(37, 29, 37);
 }
 li{
     background-color: teal;
 }
 .tropical
 {
-  head color: #f7325e;  
-  text color: #7dc410;
+  color-adjust: #f7325e;  
+  text-decoration-color: #7dc410;
   font-family:fantacy;
 }
