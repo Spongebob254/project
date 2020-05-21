@@ -4,8 +4,9 @@ h1{
     font-family: sans-serif;
 }
 p{
-
-}
+background-color: blue;
+font-size: large;
+text-align: center;}
 body{
-
+background color: black;
 }
