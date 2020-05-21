@@ -32,10 +32,10 @@ li{
   text-decoration-color: #7dc410;
   font-family:fantacy;
 }
-.imporntant{
-    background-color:red;
+.important{
+    background-color:purple;
 }
-.unimporntant{
+.unimportant{
     background-color:blue;
 }
 .cat-climate{
@@ -51,9 +51,16 @@ background-color: violet;
 image{
     float:left;
     image-resolution:50px;
-     align centre;
+     background-size :40;
 
 }
-
-
+.cats p {
+ 
+    background-color: blanchedalmond;
+    font-weight: bold;
 }
+.dogs p {
+    background-color: coral;
+    font-style: italic;
+}
+
