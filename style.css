@@ -8,15 +8,13 @@ background-color: blue;
 font-size: large;
 text-align: center;}
 body{
-background color: black;
-}
+background color: black;}
+
 . author{
-    color:red;
-font -size 12px;
+    color:yellowgreen;
+font-size: medium 12px;}
 
-}
 .intro{
-    font-size: 15px;
+    font-size:large 15px;
     color: darkcyan;
-
 }
