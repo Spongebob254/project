@@ -1,8 +1,9 @@
 h1{
-    color: aqua;
+   background-color: blanchedalmond;
     font-size:medium;
     font-family: sans-serif;
 }
+<<<<<<< HEAD
 h2{
     font-weight: 100;
     font-size: medium;
@@ -14,4 +15,12 @@ body{
 }
 p{
     font-style: italic;
+=======
+p{
+background-color: blue;
+font-size: large;
+text-align: center;}
+body{
+background color: black;
+>>>>>>> master
 }
